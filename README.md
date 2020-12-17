@@ -1,2 +1,5 @@
 # simple-php-site
-php with mysql database with basic login and logout
+##PHP AND MYSQL 
+php with mysql database with basic register,login and logout
+
+Run with localhost or with apache web server with database connected
